@@ -75,7 +75,7 @@ const handler = async (req: NextApiRequest, res: NextApiResponse) => {
         left: "0px",
         right: "0px",
       },
-      pageRanges: "1",
+      pageRanges: "",
     });
 
     //LOG Sucess
